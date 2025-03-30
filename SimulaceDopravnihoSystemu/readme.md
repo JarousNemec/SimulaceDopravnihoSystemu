@@ -1,0 +1,1 @@
+﻿- https://cs.wikipedia.org/wiki/Jednotkov%C3%BD_vektor
