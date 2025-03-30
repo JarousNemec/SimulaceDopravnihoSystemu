@@ -78,7 +78,8 @@ public class DeliveryService
                 van.CentralStation.DeliverPackages(van.Packages);
                 
             }
-            else if (van.Direction == VanDirection.HomeStation)
+            else if (van.Direction == VanDirection.HomeStation
+                     )
             {
                 van.HomeStation.DeliverPackages(van.Packages);
             }
